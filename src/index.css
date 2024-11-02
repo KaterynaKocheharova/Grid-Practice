@@ -44,7 +44,6 @@ body {
 }
 
 .grid-item {
-  /* We center the contents of these items. You can also do this with flexbox too! */
   display: grid;
   justify-content: center;
   align-items: center;
